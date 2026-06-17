@@ -26,8 +26,6 @@
   💼 Ferramentas e práticas: <strong>Git, GitHub, Docker, Vite, CI/CD, Redux, Context API, React Query</strong>
 </p>
 
-### ⚙️ GitHub Widgets
-
 <table align="center">
   <tr>
     <td align="center">
