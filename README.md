@@ -13,7 +13,7 @@
 
 <p align="left">
   Gosto de componentização, integração com APIs, performance e experiência de uso.  
-  Aqui você vai encontrar uma mistura de estudos, projetos práticos e algumas ideias que eu vou lapidando ao longo do caminho.
+  Aqui você vai encontrar uma mistura de estudos, projetos práticos e alguns projetos open source que fazem parte da minha jornada.
 </p>
 
 ### O que eu mais uso
@@ -36,8 +36,15 @@
 
 ### Alguns projetos por aqui
 
+### Projetos em destaque
+
+- [PR-CLI](https://github.com/gabrielSantos1101/PR-CLI) - uma CLI para facilitar fluxos de pull request
+- [credentials-changer](https://github.com/gabrielSantos1101/credentials-changer) - ferramenta para ajudar na troca de credenciais
+- [Lumen-media](https://github.com/orgs/Lumen-media/repositories) - org com projetos open source do meu projeto principal, o Lumen
+
+### Outros projetos que também curto
+
 - `Food Explorer`
-- `NLW-Copa`
 - `NLW-SpaceTime-web`
 - `Find-a-friend`
 - `Front-star-Movies`
