@@ -7,7 +7,7 @@
 </p>
 
 <p align="left">
-  No momento, estou focado em produtos web com <strong>React, Next.js, TypeScript e Tailwind CSS</strong>, atuando em um SaaS da área de educação com bastante uso real.
+  No momento, estou focado em produtos web com <strong>React, Next.js, TypeScript e Tailwind CSS</strong>.
   Quando o projeto pede, também me viro bem com <strong>Node.js, NestJS e React Native</strong>.
 </p>
 
