@@ -26,11 +26,13 @@
   💼 Ferramentas e práticas: <strong>Git, GitHub, Docker, Vite, CI/CD, Redux, Context API, React Query</strong>
 </p>
 
+### ⚙️ GitHub Analytics
+
 <table align="center">
   <tr>
     <td align="center">
       <img
-        src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabrielSantos1101&theme=transparent&hide_border=true&layout=compact&langs_count=8"
+        src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabrielSantos1101&theme=transparent&hide_border=true&layout=compact&langs_count=8&hide=python"
         alt="Top Languages"
       />
     </td>
@@ -42,6 +44,10 @@
     </td>
   </tr>
 </table>
+
+<p align="center">
+  <em>O widget de linguagens reflete seus repositórios públicos, então escondi Python para destacar melhor sua stack principal.</em>
+</p>
 
 ### 📈 Commit Board
 
@@ -59,8 +65,6 @@
 - Integrações com API
 - Produtos com foco real em uso
 - Soluções que equilibram performance e manutenção
-
-### Alguns projetos por aqui
 
 ### Projetos em destaque
 
@@ -96,3 +100,11 @@
     </td>
   </tr>
 </table>
+
+<p align="center">
+  <img alt="followers" src="https://img.shields.io/github/followers/gabrielSantos1101?label=Followers&style=social">
+</p>
+
+<p align="center">
+  <img alt="Snake animation" src="https://github.com/gabrielSantos1101/gabrielSantos1101/blob/output/github-contribution-snake.svg">
+</p>
