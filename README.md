@@ -54,29 +54,6 @@
   />
 </p>
 
-### 🏆 GitHub Profile Trophy
-
-<p align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy" title="repositório de troféus">
-    <img
-      width="800"
-      src="https://github-profile-trophy.vercel.app/?username=gabrielSantos1101&column=8&theme=gruvbox&no-frame=true&no-bg=true"
-      alt="GitHub Profile Trophy"
-    />
-  </a>
-</p>
-
-<div align="center">
-  <h3><b>📍 Profile Visitor Count</b></h3>
-</div>
-
-<p align="center">
-  <img
-    src="https://profile-counter.glitch.me/gabrielSantos1101/count.svg"
-    alt="Número de visitantes no perfil"
-  />
-</p>
-
 ### Um pouco do que curto construir
 
 - Interfaces responsivas e bem cuidadas
