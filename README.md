@@ -45,19 +45,6 @@
   </tr>
 </table>
 
-<p align="center">
-  <em>O widget de linguagens reflete seus repositórios públicos, então escondi Python para destacar melhor sua stack principal.</em>
-</p>
-
-### 📈 Commit Board
-
-<p align="center">
-  <img
-    src="https://github-readme-activity-graph.vercel.app/graph?username=gabrielSantos1101&theme=react-dark&hide_border=true&area=true"
-    alt="Commit board"
-  />
-</p>
-
 ### Um pouco do que curto construir
 
 - Interfaces responsivas e bem cuidadas
@@ -103,8 +90,4 @@
 
 <p align="center">
   <img alt="followers" src="https://img.shields.io/github/followers/gabrielSantos1101?label=Followers&style=social">
-</p>
-
-<p align="center">
-  <img alt="Snake animation" src="https://github.com/gabrielSantos1101/gabrielSantos1101/blob/output/github-contribution-snake.svg">
 </p>
